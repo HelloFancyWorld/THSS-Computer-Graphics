@@ -1,0 +1,56 @@
+﻿  'WHERE' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+  Reading Qt configuration (D:/Qt/6.8.0/msvc2022_64/bin/qmake)
+  moc QtOpenGLDemo.h
+  moc OpenGLWidget.h
+  moc_OpenGLWidget.cpp
+  moc_QtOpenGLDemo.cpp
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x6d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_OpenGLWidget.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x6d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_OpenGLWidget.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x6d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_OpenGLWidget.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x701 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_OpenGLWidget.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x703 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_OpenGLWidget.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x705 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_OpenGLWidget.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x707 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_OpenGLWidget.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x708 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_OpenGLWidget.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x6d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_QtOpenGLDemo.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x6d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_QtOpenGLDemo.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x6d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_QtOpenGLDemo.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x701 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_QtOpenGLDemo.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x703 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_QtOpenGLDemo.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x705 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_QtOpenGLDemo.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x707 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_QtOpenGLDemo.cpp”)
+  
+D:\作业\24秋\计算机图形学\QtOpenGLDemo\QtOpenGLDemo\OpenGLWidget.h(1,1): warning C4828: 文件包含在偏移 0x708 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“x64/Debug/moc/moc_QtOpenGLDemo.cpp”)
+  
+  QtOpenGLDemo.vcxproj -> D:\作业\24秋\计算机图形学\QtOpenGLDemo\x64\Debug\QtOpenGLDemo.exe

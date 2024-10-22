@@ -1,0 +1,6 @@
+leftCubePos: -1.0, 0.0, 8.0
+leftCubeColor: 1.0, 0.8, 0.0
+rightCubePos: 1.0, 0.0, 4.0
+rightCubeColor: 0.3, 0.7, 0.0
+middleCubeColor: 0.8, 0.3, 0.6
+speed: 0.4
